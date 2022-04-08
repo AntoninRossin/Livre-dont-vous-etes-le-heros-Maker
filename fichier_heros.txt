@@ -1,0 +1,37 @@
+1
+line_condition: sword 16 katana 17
+print: Bienvenu dans ce fabuleux test
+input: vous avez trois choix : 1: 1ere redirection 2: 2eme redirection 3: 3eme redirection: 
+lines: 4 6 7
+6
+input: chapitre 6 
+4
+input: chapitre 4 
+7
+input: chapitre 7 
+add_inventory: sword 2
+add_inventory: sword 1
+add_inventory: katana 1
+line_condition: sword 16 katana 17
+setup_life: 20
+life_rules: death_no_life
+add_life: 2
+add_life: -22
+16
+input: 16
+17
+input: 17
+setup_life: 20
+min_attaquejoueur: 2
+max_attaquejoueur: 4
+monstre: nom_du_monstre 5 2 5
+34
+print: ceci est un test, écris test
+quiz: test 33 1
+33
+fin:
+
+#rajouter tirage aléatoire, ça peut etre sympa, ex: monstre
+monstre: nom_du_monstre pointdevie_monstre min_attaquemonstre max_attaquemonstre 
+
+min_attaquejoueur max_attaquejoueur # faire des fonctions pour le définir
