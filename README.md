@@ -4,7 +4,7 @@ Pour procéder à la création de votre livre vous devrez écrire des commandes 
 Il y a dans ce fichier un exemple de livre qu'il est possible de créer facilement grace au programme.
 Je vais maintenant vous écrire une liste de commandes utilisables et les arguments que ses commandes prennent.
 
-chapitre n (soit n un entier, sera utile pour la redirection(commande montrée plus tard) à divers endroits du documents txt).
+chapitre (soit chapitre un entier, sera utile pour la redirection(commande montrée plus tard) à divers endroits du documents txt).
 
 print: votre texte (affiche votre texte à l'écran)
 
