@@ -30,8 +30,3 @@ print: ceci est un test, écris test
 quiz: test 33 1
 33
 fin:
-
-#rajouter tirage aléatoire, ça peut etre sympa, ex: monstre
-monstre: nom_du_monstre pointdevie_monstre min_attaquemonstre max_attaquemonstre 
-
-min_attaquejoueur max_attaquejoueur # faire des fonctions pour le définir
